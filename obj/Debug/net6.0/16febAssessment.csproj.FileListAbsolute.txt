@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\bin\Debug\net6.0\16febAssessment.exe
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\bin\Debug\net6.0\16febAssessment.deps.json
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\bin\Debug\net6.0\16febAssessment.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\bin\Debug\net6.0\16febAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\bin\Debug\net6.0\16febAssessment.pdb
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\refint\16febAssessment.dll
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.pdb
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\16febAssessment.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\16febAssessment\16febAssessment\obj\Debug\net6.0\ref\16febAssessment.dll
